@@ -6,16 +6,31 @@ h1 {
 }
 
 h2 {
-  color: rgb(49, 189, 189);
+  color: rgb(29, 90, 90);
   text-align: center;
+  line-height: 30px;
+}
+
+h3 {
+  color: rgb(161, 210, 240);
+  font-weight: 400;
+  font-family: sans-serif;
 }
 
 p {
   font-family: sans-serif;
   font-weight: 500;
   color: rgb(122, 33, 33);
+  font-size: 22px;
 }
 
 ul {
   font-size: 19px;
 }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
