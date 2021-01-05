@@ -33,4 +33,12 @@ ul {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-  }
+}
+a {
+    background-color: transparent;
+}
+a:hover, a:link:hover {
+    color: #ffbf00;
+    outline: single, dotted;
+}
+.page-wrapper { right: 0; background-image: -webkit-linear-gradient(left, rgba(6, 59, 112, 0) 0%, #063b70 50%); background-image: linear-gradient(to right, rgba(6, 59, 112, 0) 0%, #063b70 50%); }
