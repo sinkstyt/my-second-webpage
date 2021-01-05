@@ -1,0 +1,22 @@
+h1 {
+  color: rgba(167, 72, 167, 0.575);
+  font-style: oblique;
+  text-align: center;
+}
+
+h2 {
+  color: red;
+  text-align: center;
+  line-height: 30px;
+}
+
+h3 {
+  color: lightskyblue;
+  font-weight: 400;
+  font-family: sans-serif;
+}
+
+p {
+  color: rgb(141, 31, 31);
+  font-size: 20px;
+}
